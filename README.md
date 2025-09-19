@@ -17,13 +17,14 @@ I’m starting from the very beginning, with no shortcuts. Every week, I’ll do
 
 I’m documenting this so future learners (and my future self) can see the growth from day 0 to the final tapeout.
 
-# Week 0 – Tools Installation 🛠️
+# 🚀 Week 0 – Setup & Tools
 
-| Tool        | Installation Command(s) | Verification Command | Screenshot |
-|-------------|--------------------------|----------------------|-------------|
-| **Yosys**   | `git clone https://github.com/YosysHQ/yosys.git` <br> `make config-gcc && make && sudo make install` | `yosys -V` | ![yosys](./screenshots/yosys.png) |
-| **Icarus Verilog** | `sudo apt-get install iverilog` | `iverilog -V` | ![iverilog](./screenshots/iverilog.png) |
-| **GTKWave** | `sudo apt install gtkwave` | `gtkwave --version` | ![gtkwave](./screenshots/gtkwave.png) |
-| **Ngspice** | `../configure --with-x --with-readline=yes --disable-debug` <br> `make && sudo make install` | `ngspice -v` | ![ngspice](./screenshots/ngspice.png) |
-| **Magic**   | `git clone https://github.com/RTimothyEdwards/magic` <br> `./configure && make && make install` | `magic -version` | ![magic](./screenshots/magic.png) |
-| **OpenLANE** | `git clone https://github.com/The-OpenROAD-Project/OpenLane` <br> `make && make test` | `docker --version` <br> `make test` | ![openlane](./screenshots/openlane.png) |
+### ✅ Task 0: Tools Installation
+- Installed: **Yosys**, **Icarus Verilog**, **GTKWave**, **Ngspice**, **Magic**, **OpenLANE**
+- Status: ✔️ Completed
+
+## Skill-Oriented
+
+Developed confidence in using **Linux terminal** for tool installation & verification.
+Learned how to troubleshoot and fix installation issues.
+Prepared a stable environment for design, verification, and layout tasks in future weeks.
