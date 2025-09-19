@@ -1,4 +1,9 @@
 # RISC-V Reference SoC Tapeout Program -- VSD
+![RISC-V](https://img.shields.io/badge/RISC--V-Processor-blue?logo=risc-v&logoColor=white)
+![SOC Tapeout](https://img.shields.io/badge/SoC-Tapeout-blue)
+![VSD Program](https://img.shields.io/badge/VSD-Program-orange)
+![Made in India](https://img.shields.io/badge/Made%20in-India-green?logo=india&logoColor=white)
+
 ## My SoC Labs Journey 🚀
 ***From Design to Silicon with Industry-Grade Tools***
 
