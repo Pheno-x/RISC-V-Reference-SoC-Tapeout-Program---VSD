@@ -1,5 +1,5 @@
 # RISC-V Reference SoC Tapeout Program -- VSD
-From Design to Silicon with Industry-Grade Tools
+*** From Design to Silicon with Industry-Grade Tools ***
 
 ## My SoC Labs Journey 🚀
 
