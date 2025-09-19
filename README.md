@@ -5,7 +5,10 @@
 ![Made in India](https://img.shields.io/badge/Made%20in-India-green?logo=india&logoColor=white)
 
 ## My SoC Labs Journey 🚀
-![Journey](https://img.shields.io/badge/From_Design_to_Silicon-with_Industry--Grade_Tools-magenta?style=for-the-badge&logo=chip&logoColor=white)
+===============================
+🚀 From Design to Silicon with Industry-Grade Tools 🔧
+===============================
+
 
 This repo is not just code and screenshots — it’s a record of my journey through the **VSD SoC Labs Program**.  
 I’m starting from the very beginning, with no shortcuts. Every week, I’ll document what I learn, what I build, and even the mistakes I make along the way. 
