@@ -19,8 +19,8 @@ I’m documenting this so future learners (and my future self) can see the growt
 
 # 🚀 Week 0 – Setup & Tools
 
-| Task | Description | Status |
-|------|-------------|--------|
+| Week | Task Description | Status |
+|------|------------------|--------|
 | 0 | 🛠️ Tools Installation <br> Installed **Yosys**, **Icarus Verilog**, **GTKWave**, **Ngspice**, **Magic**, **OpenLANE** | ✔️ Completed |
 
 ---
