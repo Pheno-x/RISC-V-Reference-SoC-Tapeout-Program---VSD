@@ -1,7 +1,7 @@
 # RISC-V Reference SoC Tapeout Program -- VSD
+## My SoC Labs Journey 🚀
 ***From Design to Silicon with Industry-Grade Tools***
 
-## My SoC Labs Journey 🚀
 
 This repo is not just code and screenshots — it’s a record of my journey through the **VSD SoC Labs Program**.  
 I’m starting from the very beginning, with no shortcuts. Every week, I’ll document what I learn, what I build, and even the mistakes I make along the way. 
