@@ -19,12 +19,15 @@ I’m documenting this so future learners (and my future self) can see the growt
 
 # 🚀 Week 0 – Setup & Tools
 
-### ✅ Task 0: Tools Installation
-- Installed: **Yosys**, **Icarus Verilog**, **GTKWave**, **Ngspice**, **Magic**, **OpenLANE**
-- Status: ✔️ Completed
+| Task | Description | Status |
+|------|-------------|--------|
+| 0 | 🛠️ Tools Installation <br> Installed **Yosys**, **Icarus Verilog**, **GTKWave**, **Ngspice**, **Magic**, **OpenLANE** | ✔️ Completed |
+
+---
+
 
 ## Skill-Oriented
 
-Developed confidence in using **Linux terminal** for tool installation & verification.
-Learned how to troubleshoot and fix installation issues.
-Prepared a stable environment for design, verification, and layout tasks in future weeks.
+- ✅Developed confidence in using **Linux terminal** for tool installation & verification.
+- ✅Learned how to troubleshoot and fix installation issues.
+- ✅Prepared a stable environment for design, verification, and layout tasks in future weeks.
