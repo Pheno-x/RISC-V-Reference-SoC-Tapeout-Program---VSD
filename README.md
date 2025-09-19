@@ -5,7 +5,9 @@
 ![Made in India](https://img.shields.io/badge/Made%20in-India-green?logo=india&logoColor=white)
 
 ## My SoC Labs Journey 🚀
-<h1 align="center">✨ From Design to Silicon with Industry-Grade Tools ✨</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/From%20Design%20to%20Silicon-with%20Industry--Grade%20Tools-blueviolet?style=for-the-badge" />
+</p>
 
 
 
