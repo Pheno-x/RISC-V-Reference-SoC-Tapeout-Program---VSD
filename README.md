@@ -5,16 +5,10 @@
 ![Made in India](https://img.shields.io/badge/Made%20in-India-green?logo=india&logoColor=white)
 
 ## My SoC Labs Journey 🚀
-> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-> 🚀 ***From Design to Silicon with Industry-Grade Tools*** 🔧  
-> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-
+![Journey](https://img.shields.io/badge/From_Design_to_Silicon-with_Industry--Grade_Tools-magenta?style=for-the-badge&logo=chip&logoColor=white)
 
 This repo is not just code and screenshots — it’s a record of my journey through the **VSD SoC Labs Program**.  
 I’m starting from the very beginning, with no shortcuts. Every week, I’ll document what I learn, what I build, and even the mistakes I make along the way. 
-
 I’m documenting this so future learners (and my future self) can see the growth from day 0 to the final tapeout.
 
 # 🚀 Week 0 – Setup & Tools
@@ -36,9 +30,10 @@ I’m documenting this so future learners (and my future self) can see the growt
 ## 🙏 Acknowledgment
 
 I would like to sincerely thank **IIT Gandhinagar**, the **VSD (VLSI System Design) team**, and **Kunal Ghosh sir** for creating and leading the SoC Labs Program.  
-This initiative has provided a unique opportunity to learn **end-to-end SoC design** using industry-grade tools in a fully open-source environment.  
+This initiative has providing a unique opportunity to learn **end-to-end SoC design** using industry-grade tools in a fully open-source environment.  
 
-Gratitude also goes to the **open-source EDA community** for developing and maintaining powerful tools such as **Yosys, Icarus Verilog, GTKWave, Ngspice, Magic, and OpenLANE**. Their contributions make it possible for students and enthusiasts worldwide to explore chip design without restrictions.  
+Gratitude also goes to the **open-source EDA community** for developing and maintaining powerful tools such as **Yosys, Icarus Verilog, GTKWave, Ngspice, Magic, and OpenLANE**. 
+Their contributions make it possible for students and enthusiasts worldwide to explore chip design without restrictions.  
 
 A special thanks to the VSD team for making this program **free and accessible**, breaking barriers to VLSI education and empowering learners like me to take the first steps from **RTL → GDSII design flow**.  
 
