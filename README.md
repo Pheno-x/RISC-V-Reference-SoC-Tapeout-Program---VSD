@@ -12,23 +12,19 @@
 This repo is not just code and screenshots — it’s a record of my journey through the **VSD SoC Labs Program**.  
 I’m starting from the very beginning, with no shortcuts. Every week, I’ll document what I learn, what I build, and even the mistakes I make along the way. 
 I’m documenting this so future learners (and my future self) can see the growth from day 0 to the final tapeout.
-
+---
 ## 🚀 Week 0 – Setup & Tools
 
 | Week | Task Description | Status |
 |------|------------------|--------|
 | 0 | 🛠️ Tools Installation <br> Installed **Yosys**, **Icarus Verilog**, **GTKWave**, **Ngspice**, **Magic**, **OpenLANE** | ✔️ Completed |
 
----
-
-
 ## 🏆Skill-Oriented
 
 - ✅Developed confidence in using **Linux terminal** for tool installation & verification.
 - ✅Learned how to troubleshoot and fix installation issues.
 - ✅Prepared a stable environment for design, verification, and layout tasks in future weeks.
-
-
+---
 ## 🙏 Acknowledgment
 
 I would like to sincerely thank **IIT Gandhinagar**, the **VSD (VLSI System Design) team**, and **Kunal Ghosh sir** for creating and leading the SoC Labs Program.  
