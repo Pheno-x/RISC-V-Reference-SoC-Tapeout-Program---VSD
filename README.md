@@ -5,16 +5,15 @@
 ![Made in India](https://img.shields.io/badge/Made%20in-India-green?logo=india&logoColor=white)
 
 ## My SoC Labs Journey 🚀
-===============================
-🚀 From Design to Silicon with Industry-Grade Tools 🔧
-===============================
-
+> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+> 🚀 **From Design to Silicon with Industry-Grade Tools** 🔧  
+> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 This repo is not just code and screenshots — it’s a record of my journey through the **VSD SoC Labs Program**.  
 I’m starting from the very beginning, with no shortcuts. Every week, I’ll document what I learn, what I build, and even the mistakes I make along the way. 
 I’m documenting this so future learners (and my future self) can see the growth from day 0 to the final tapeout.
 
-# 🚀 Week 0 – Setup & Tools
+## 🚀 Week 0 – Setup & Tools
 
 | Week | Task Description | Status |
 |------|------------------|--------|
@@ -23,7 +22,7 @@ I’m documenting this so future learners (and my future self) can see the growt
 ---
 
 
-## Skill-Oriented
+## 🏆Skill-Oriented
 
 - ✅Developed confidence in using **Linux terminal** for tool installation & verification.
 - ✅Learned how to troubleshoot and fix installation issues.
@@ -42,11 +41,10 @@ A special thanks to the VSD team for making this program **free and accessible**
 
 This journey is possible only because of the combined efforts of educators, researchers, and the global open-source community.  
 
----
 
-## 🎖️ Badges of Gratitude
 ![IIT Gandhinagar](https://img.shields.io/badge/IIT-Gandhinagar-blue?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![VSD](https://img.shields.io/badge/VSD-SoC%20Labs-orange?style=for-the-badge&logo=vercel&logoColor=white)
 ![Mentor](https://img.shields.io/badge/Mentor-Kunal%20Ghosh-red?style=for-the-badge&logo=github&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Powered%20by-Open--Source-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 ![Free Access](https://img.shields.io/badge/100%25-Free-success?style=for-the-badge&logo=freelancer&logoColor=white)
+---
