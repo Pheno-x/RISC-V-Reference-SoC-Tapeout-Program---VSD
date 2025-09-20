@@ -45,3 +45,7 @@ This journey is possible only because of the combined efforts of educators, rese
 ![Open Source](https://img.shields.io/badge/Powered%20by-Open--Source-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 ![Free Access](https://img.shields.io/badge/100%25-Free-success?style=for-the-badge&logo=freelancer&logoColor=white)
 ---
+## ✍️ Author
+**Desai Prathamesh Balkrishna**  
+📧 spratham1526@gmail.com  
+🌐 [GitHub Profile](https://github.com/Pheno-x)
