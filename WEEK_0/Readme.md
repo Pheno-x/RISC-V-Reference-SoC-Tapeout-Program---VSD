@@ -64,7 +64,7 @@ make
 sudo make install
 ```
 ## Verification
-![yosys](./OutputImage/yosys.png)
+![yosys](./OutputImage/yosys.jpg)
 ## 2. Icarus Verilog ✅
 ```bash
 sudo apt-get install iverilog
