@@ -33,12 +33,12 @@ The focus is on setting up open-source EDA tools that will be used throughout th
 
 | Tool        | Purpose / Why It’s Used | Verification Command | Screenshot |
 |-------------|--------------------------|----------------------|-------------|
-| **Yosys**   | Open-source framework for **logic synthesis** (RTL → gate-level netlist). | `yosys-> license` | ![yosys](./screenshots/yosys.png) |
-| **Icarus Verilog** | A **Verilog simulator** used to test RTL designs and verify functionality. | `iverilog -V` | ![iverilog](./screenshots/iverilog.png) |
-| **GTKWave** | **Waveform viewer** for analyzing simulation results (`.vcd` files). | `gtkwave --version` | ![gtkwave](./screenshots/gtkwave.png) |
-| **Ngspice** | **Analog and mixed-signal circuit simulation** at SPICE-level. | `ngspice -v` | ![ngspice](./screenshots/ngspice.png) |
-| **Magic**   | **VLSI layout editor** for viewing and editing layouts. | `magic -version` | ![magic](./screenshots/magic.png) |
-| **OpenLANE** | Complete **RTL-to-GDSII flow** (synthesis, placement, routing, signoff). | `docker --version` <br> `make test` | ![openlane](./screenshots/openlane.png) |
+| **Yosys**   | Open-source framework for **logic synthesis** (RTL → gate-level netlist). | `yosys-> license` |![yosys](./OutputImage/yosys.jpg) |
+| **Icarus Verilog** | A **Verilog simulator** used to test RTL designs and verify functionality. | `iverilog -V` |![iverilog](./OutputImage/iverilog.jpg) |
+| **GTKWave** | **Waveform viewer** for analyzing simulation results (`.vcd` files). | `gtkwave --version` |![gtkwave](./OutputImage/gtkwaves.jpg) |
+| **Ngspice** | **Analog and mixed-signal circuit simulation** at SPICE-level. | `ngspice -v` |![ngspice](./OutputImage/ngspice.jpg) |
+| **Magic**   | **VLSI layout editor** for viewing and editing layouts. | `magic -version` | ![magic](./OutputImage/magic.jpg) |
+| **OpenLANE** | Complete **RTL-to-GDSII flow** (synthesis, placement, routing, signoff). | `docker --version` <br> `make test` | ![docker](./OutputImage/docker.jpg) |
 
 ---
 ## ⚙️ Week 0 – Installation Commands
