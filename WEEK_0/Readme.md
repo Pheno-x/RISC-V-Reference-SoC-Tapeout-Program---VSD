@@ -140,7 +140,7 @@ cd OpenLane
 make
 make test
 ```
-## OpenSTA
+## OpenSTA ✅
 Use the below link for downloding OpenSTA
 ~~~
 https://github.com/The-OpenROAD-Project/OpenSTA
