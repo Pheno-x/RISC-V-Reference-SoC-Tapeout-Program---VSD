@@ -14,7 +14,7 @@ The focus is on setting up open-source EDA tools that will be used throughout th
 ---
 
 ## Task 2:🖥️ Environment Setup - Done ✅
-- I am using **VirtualBox with Ubuntu 20.04 LTS**.  
+- I am using **VirtualBox with Ubuntu mate 25.04**.  
 - Alternatives include:  
   - **WSL (Windows Subsystem for Linux)** → Ubuntu on Windows  
   - **Dedicated Ubuntu OS** → Native installation for better performance  
