@@ -63,7 +63,7 @@ make config-gcc
 make
 sudo make install
 ```
-## Verification
+Verification
 ![yosys](./OutputImage/yosys.jpg)
 
 ---
