@@ -31,14 +31,14 @@ The focus is on setting up open-source EDA tools that will be used throughout th
 
 ## 🛠️ Tools Installed
 
-| Tool        | Purpose / Why It’s Used | Verification Command | Screenshot |
+| Tool        | Purpose / Why It’s Used | Verification Command | Status |
 |-------------|--------------------------|----------------------|-------------|
-| **Yosys**   | Open-source framework for **logic synthesis** (RTL → gate-level netlist). | `yosys-> license` |![yosys](./OutputImage/yosys.jpg) |
-| **Icarus Verilog** | A **Verilog simulator** used to test RTL designs and verify functionality. | `iverilog -V` |![iverilog](./OutputImage/iverilog.jpg) |
-| **GTKWave** | **Waveform viewer** for analyzing simulation results (`.vcd` files). | `gtkwave --version` |![gtkwave](./OutputImage/gtkwaves.jpg) |
-| **Ngspice** | **Analog and mixed-signal circuit simulation** at SPICE-level. | `ngspice -v` |![ngspice](./OutputImage/ngspice.jpg) |
-| **Magic**   | **VLSI layout editor** for viewing and editing layouts. | `magic -version` | ![magic](./OutputImage/magic.jpg) |
-| **OpenLANE** | Complete **RTL-to-GDSII flow** (synthesis, placement, routing, signoff). | `docker --version` <br> `make test` | ![docker](./OutputImage/docker.jpg) |
+| **Yosys**   | Open-source framework for **logic synthesis** (RTL → gate-level netlist). | `yosys-> license` |Done |
+| **Icarus Verilog** | A **Verilog simulator** used to test RTL designs and verify functionality. | `iverilog -V` |Done |
+| **GTKWave** | **Waveform viewer** for analyzing simulation results (`.vcd` files). | `gtkwave --version` |Done |
+| **Ngspice** | **Analog and mixed-signal circuit simulation** at SPICE-level. | `ngspice -v` |Done |
+| **Magic**   | **VLSI layout editor** for viewing and editing layouts. | `magic -version` |Done |
+| **OpenLANE** | Complete **RTL-to-GDSII flow** (synthesis, placement, routing, signoff). | `docker --version` <br> `make test` |Done with docker |
 
 ---
 ## ⚙️ Week 0 – Installation Commands
