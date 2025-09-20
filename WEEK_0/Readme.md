@@ -37,13 +37,13 @@ The focus is on setting up open-source EDA tools that will be used throughout th
 ## ⚙️ Week 0 – Installation Commands
 This section contains all installation steps for the tools required in Week 0. 
 ### * System Update
-`
+```
 $sudo apt-get update 
 $sudo apt-get upgrade 
-`
+```
 
 ## 1. Yosys
-`
+```
 sudo apt-get update
 git clone https://github.com/YosysHQ/yosys.git
 cd yosys
@@ -55,20 +55,20 @@ sudo apt-get install build-essential clang bison flex \
 make config-gcc
 make
 sudo make install
-`
+```
 
 ## 2. Icarus Verilog
-`
+```
 sudo apt-get install iverilog
-`
+```
 
 ## 3. GTKWaves
-`
+```
 sudo apt install gtkwave
-`
+```
 
 ## 4. Ngspice
-`
+```
 Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
 tar -zxvf ngspice-37.tar.gz  # change as per the version you download
 cd ngspice-37
@@ -77,10 +77,10 @@ cd release
 ../configure --with-x --with-readline=yes --disable-debug
 make
 sudo make install
-`
+```
 
 ## 5. Magic
-`
+```
 sudo apt-get install m4
 sudo apt-get install tcsh
 sudo apt-get install csh
@@ -93,10 +93,10 @@ git clone https://github.com/RTimothyEdwards/magic
 cd magic
 ./configure
 make
-make install
-`
+sudo make install
+```
 ## 6.OpenLANE
-`
+```
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt install -y build-essential python3 python3-venv python3-pip make git
@@ -127,7 +127,7 @@ git clone https://github.com/The-OpenROAD-Project/OpenLane
 cd OpenLane
 make
 make test
-`
+```
 
 
 ---
