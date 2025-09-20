@@ -45,8 +45,8 @@ The focus is on setting up open-source EDA tools that will be used throughout th
 This section contains all installation steps for the tools required in Week 0. 
 ## System Update
 ```bash
-$sudo apt-get update 
-$sudo apt-get upgrade 
+sudo apt-get update 
+sudo apt-get upgrade 
 ```
 
 ## 1. Yosys ✅
@@ -85,7 +85,7 @@ Verification
 ---
 ## 4. Ngspice ✅
 ```bash
-Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
+# Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
 tar -zxvf ngspice-37.tar.gz  # change as per the version you download
 cd ngspice-37
 mkdir release
