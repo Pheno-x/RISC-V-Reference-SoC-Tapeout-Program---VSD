@@ -26,7 +26,7 @@ The focus is on setting up open-source EDA tools that will be used throughout th
 
 | Tool        | Purpose / Why It’s Used | Verification Command | Screenshot |
 |-------------|--------------------------|----------------------|-------------|
-| **Yosys**   | Open-source framework for **logic synthesis** (RTL → gate-level netlist). | `yosys -V` | ![yosys](./screenshots/yosys.png) |
+| **Yosys**   | Open-source framework for **logic synthesis** (RTL → gate-level netlist). | `yosys-> license` | ![yosys](./screenshots/yosys.png) |
 | **Icarus Verilog** | A **Verilog simulator** used to test RTL designs and verify functionality. | `iverilog -V` | ![iverilog](./screenshots/iverilog.png) |
 | **GTKWave** | **Waveform viewer** for analyzing simulation results (`.vcd` files). | `gtkwave --version` | ![gtkwave](./screenshots/gtkwave.png) |
 | **Ngspice** | **Analog and mixed-signal circuit simulation** at SPICE-level. | `ngspice -v` | ![ngspice](./screenshots/ngspice.png) |
@@ -42,7 +42,7 @@ $sudo apt-get update
 $sudo apt-get upgrade 
 ```
 
-## 1. Yosys
+## 1. Yosys ✅
 ```
 sudo apt-get update
 git clone https://github.com/YosysHQ/yosys.git
@@ -57,17 +57,17 @@ make
 sudo make install
 ```
 
-## 2. Icarus Verilog
+## 2. Icarus Verilog ✅
 ```
 sudo apt-get install iverilog
 ```
 
-## 3. GTKWaves
+## 3. GTKWaves ✅
 ```
 sudo apt install gtkwave
 ```
 
-## 4. Ngspice
+## 4. Ngspice ✅
 ```
 Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
 tar -zxvf ngspice-37.tar.gz  # change as per the version you download
@@ -79,7 +79,7 @@ make
 sudo make install
 ```
 
-## 5. Magic
+## 5. Magic ✅
 ```
 sudo apt-get install m4
 sudo apt-get install tcsh
@@ -95,35 +95,35 @@ cd magic
 make
 sudo make install
 ```
-## 6.OpenLANE
+## 6.OpenLANE ✅
 ```
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt install -y build-essential python3 python3-venv python3-pip make git
 sudo apt install apt-transport-https ca-certificates curl software-properties-common
 ```
-### Install Docker
+### Install Docker ⚙️
 ```
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
 echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 sudo apt update
 sudo apt install docker-ce docker-ce-cli containerd.io
 ```
-### Verify Docker
+### Verify Docker 🔬
 ```
 sudo docker run hello-world
 ```
-### Add user to docker group
+### Add user to docker group ⚙️
 ```
 sudo groupadd docker
 sudo usermod -aG docker $USER
 sudo reboot
 ```
-### After reboot
+### After reboot 🛠️
 ```
 docker run hello-world
 ```
-### Check dependencies
+### Check dependencies 🔬
 ```
 git --version
 docker --version
@@ -132,7 +132,7 @@ python3 -m pip --version
 make --version
 python3 -m venv -h
 ```
-#### Install PDKs and tools
+#### Install PDKs and tools ✅
 ```
 cd $HOME
 git clone https://github.com/The-OpenROAD-Project/OpenLane
