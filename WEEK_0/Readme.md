@@ -1,12 +1,16 @@
 # 🚀 Week 0 – Tools Installation
 
 ## 📌 Overview
-Week 0 is all about preparing the environment for the SoC Labs journey.  
+Week 0 is all about preparing the environment for the SoC Labs journey and Getting Started with Digital VLSI SoC Design and Planning.  
 The focus is on setting up open-source EDA tools that will be used throughout the program for **design, simulation, synthesis, and layout**.
 
 ---
-
-## 🖥️ Environment Setup
+## 📘 Task 1: Getting Started with Digital VLSI SoC Design and Planning - Done ✅
+- Understood the **basic flow of Digital VLSI SoC design**.  
+- Learned about **RTL design, synthesis, and planning stages** before fabrication.  
+- Explored how the SoC Labs program is structured to cover each step of the design journey.  
+- This sets the foundation for upcoming experiments in **RTL → GDSII implementation**.
+##  Task 2:🖥️ Environment Setup
 - I am using **VirtualBox with Ubuntu 20.04 LTS**.  
 - Alternatives include:  
   - **WSL (Windows Subsystem for Linux)** → Ubuntu on Windows  
