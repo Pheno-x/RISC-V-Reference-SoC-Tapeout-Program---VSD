@@ -132,7 +132,7 @@ python3 -m pip --version
 make --version
 python3 -m venv -h
 ```
-#### Install PDKs and tools ✅
+### Install PDKs and tools ✅
 ```
 cd $HOME
 git clone https://github.com/The-OpenROAD-Project/OpenLane
