@@ -65,16 +65,24 @@ sudo make install
 ```
 ## Verification
 ![yosys](./OutputImage/yosys.jpg)
+
+---
 ## 2. Icarus Verilog ✅
 ```bash
 sudo apt-get install iverilog
 ```
+Verification
+![iverilog](./OutputImage/iverilog.jpg)
 
+---
 ## 3. GTKWaves ✅
 ```bash
 sudo apt install gtkwave
 ```
+Verification
+![gtkwave](./OutputImage/gtkwaves.jpg)
 
+---
 ## 4. Ngspice ✅
 ```bash
 Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
@@ -86,7 +94,10 @@ cd release
 make
 sudo make install
 ```
+Verification
+![ngspice](./OutputImage/ngspice.jpg)
 
+---
 ## 5. Magic ✅
 ```bash
 sudo apt-get install m4
@@ -103,7 +114,10 @@ cd magic
 make
 sudo make install
 ```
+Verification
+![magic](./OutputImage/magic.jpg)
 
+---
 ## OpenSTA ✅
 Use the below link for downloding OpenSTA
 ```bash
