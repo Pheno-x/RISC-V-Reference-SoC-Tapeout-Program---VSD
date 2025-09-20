@@ -58,6 +58,11 @@ sudo usermod -aG docker $USER
 newgrp docker
 docker run hello-world
 ```
+
+Docker Verification
+![docker](./OutputImage/docker.jpg)
+
+---
 ## 🔧 Step 3: Install OpenLane
 ```bash
 cd $HOME
