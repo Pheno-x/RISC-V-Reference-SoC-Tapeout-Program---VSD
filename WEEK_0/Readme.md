@@ -44,13 +44,13 @@ The focus is on setting up open-source EDA tools that will be used throughout th
 ## ⚙️ Week 0 – Installation Commands
 This section contains all installation steps for the tools required in Week 0. 
 ## System Update
-```
+```bash
 $sudo apt-get update 
 $sudo apt-get upgrade 
 ```
 
 ## 1. Yosys ✅
-```
+```bash
 sudo apt-get update
 git clone https://github.com/YosysHQ/yosys.git
 cd yosys
@@ -65,17 +65,17 @@ sudo make install
 ```
 
 ## 2. Icarus Verilog ✅
-```
+```bash
 sudo apt-get install iverilog
 ```
 
 ## 3. GTKWaves ✅
-```
+```bash
 sudo apt install gtkwave
 ```
 
 ## 4. Ngspice ✅
-```
+```bash
 Download ngspice tarball from: https://sourceforge.net/projects/ngspice/files/
 tar -zxvf ngspice-37.tar.gz  # change as per the version you download
 cd ngspice-37
@@ -87,7 +87,7 @@ sudo make install
 ```
 
 ## 5. Magic ✅
-```
+```bash
 sudo apt-get install m4
 sudo apt-get install tcsh
 sudo apt-get install csh
@@ -102,55 +102,11 @@ cd magic
 make
 sudo make install
 ```
-## 6.OpenLANE ✅
-```
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt install -y build-essential python3 python3-venv python3-pip make git
-sudo apt install apt-transport-https ca-certificates curl software-properties-common
-```
-### Install Docker ⚙️
-```
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-sudo apt update
-sudo apt install docker-ce docker-ce-cli containerd.io
-```
-### Verify Docker 🔬
-```
-sudo docker run hello-world
-```
-### Add user to docker group ⚙️
-```
-sudo groupadd docker
-sudo usermod -aG docker $USER
-sudo reboot
-```
-### After reboot 🛠️
-```
-docker run hello-world
-```
-### Check dependencies 🔬
-```
-git --version
-docker --version
-python3 --version
-python3 -m pip --version
-make --version
-python3 -m venv -h
-```
-### Install PDKs and tools ✅
-```
-cd $HOME
-git clone https://github.com/The-OpenROAD-Project/OpenLane
-cd OpenLane
-make
-make test
-```
+
 ## OpenSTA ✅
 Use the below link for downloding OpenSTA
-~~~
+```bash
 https://github.com/The-OpenROAD-Project/OpenSTA
-~~~
+```
 ---
 
