@@ -36,7 +36,7 @@ The focus is on setting up open-source EDA tools that will be used throughout th
 ---
 ## ⚙️ Week 0 – Installation Commands
 This section contains all installation steps for the tools required in Week 0. 
-### * System Update
+## System Update
 ```
 $sudo apt-get update 
 $sudo apt-get upgrade 
@@ -140,7 +140,10 @@ cd OpenLane
 make
 make test
 ```
-
-
+## OpenSTA
+Use the below link for downloding OpenSTA
+~~~
+https://github.com/The-OpenROAD-Project/OpenSTA
+~~~
 ---
 
